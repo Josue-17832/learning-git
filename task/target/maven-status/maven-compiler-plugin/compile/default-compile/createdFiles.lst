@@ -1,0 +1,9 @@
+com\example\task\repositories\TaskRepository.class
+com\example\task\utils\Status.class
+com\example\task\services\TaskService.class
+com\example\task\Entities\Task.class
+com\example\task\services\impl\TaskServicesImpl.class
+com\example\task\Payload\CreateTaskDTO.class
+com\example\task\TaskApplication.class
+com\example\task\utils\Priority.class
+com\example\task\controllers\TaskController.class
